@@ -1,0 +1,48 @@
+commit 1acf821695154842fa2614fa8942a3ea5eb8cd89
+Author: qli24 <qli24@gsb.columbia.edu>
+Date:   Sun Oct 8 23:28:21 2023 -0400
+
+    10/08 new code
+
+commit 75fa9971bc10359ebb66ee991cda42b7bf214297
+Merge: 364c959 92925a4
+Author: qli24 <qli24@gsb.columbia.edu>
+Date:   Sun Oct 8 23:13:03 2023 -0400
+
+    10/08 new code
+
+commit 364c9596336b8a2b7a0d9c6517274cf7b2eaf464
+Author: qli24 <qli24@gsb.columbia.edu>
+Date:   Sun Oct 8 22:58:48 2023 -0400
+
+    10/07
+
+commit 92925a40ca61b827c7bdd233907b1027a6f4329b
+Author: qli24 <146998265+qli24@users.noreply.github.com>
+Date:   Sun Oct 8 22:26:28 2023 -0400
+
+    Update README.md
+
+commit a51b4e774ff71ab097df4ef02451819f41728132
+Author: qli24 <qli24@gsb.columbia.edu>
+Date:   Sat Oct 7 23:55:26 2023 -0400
+
+    Removed .DS_Store from the repository
+
+commit 208de66ca7659b800c13f6f46edf7d99e2658e7e
+Author: qli24 <qli24@gsb.columbia.edu>
+Date:   Sat Oct 7 23:51:28 2023 -0400
+
+    任何注释
+
+commit 53dd43f2aa2db16d8825cdc2769e0b49d10e1fa0
+Author: qli24 <qli24@gsb.columbia.edu>
+Date:   Sat Oct 7 23:40:14 2023 -0400
+
+    first commit
+
+commit 34060752cb11704181c1c4936d36bb4b577511a5
+Author: qli24 <146998265+qli24@users.noreply.github.com>
+Date:   Wed Oct 4 16:22:59 2023 -0400
+
+    Initial commit
